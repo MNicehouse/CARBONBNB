@@ -8,6 +8,8 @@ Bundler.require(*Rails.groups)
 
 module CARBONBNB
   class Application < Rails::Application
+    config.time_zone = "Amsterdam"
+    config.active_record.default_timezone = :local
     config.generators do |generate|
       generate.assets false
       generate.helper false
@@ -21,7 +23,6 @@ module CARBONBNB
     # These settings can be overridden in specific environments using the files
     # in config/environments, which are processed later.
     #
-    # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
   end
 end
