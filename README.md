@@ -39,17 +39,6 @@ Please check our site here: https://airbnb-mnicehouse.herokuapp.com/
   <img width="1262" alt="bokked falts" src="https://user-images.githubusercontent.com/63351461/224764435-8f67ae3e-3f7e-4951-afab-f868af9b503d.png">
 </details>
 
-<details>
-  <summary>Answer Questions of the Assesment as an Enduser </summary>
-<img width="1273" alt="faltsite" src="https://user-images.githubusercontent.com/63351461/224763885-a3d763b8-ddc9-4169-aacb-182dda9601ee.png">
-</details>
-
-
-<details>
-  <summary>Calculate the Maturity on a specific Assessment </summary>
-<img width="1280" alt="finishs" src="https://user-images.githubusercontent.com/63351461/222470245-fba458bc-3ae9-4535-8dc7-4fe1f498268c.png">
-
-</details>
 
 # About us
 This project was developed by Markus Nettesheim, Christopher Beraud, Sasha Alexander Belski and Paul Tilly in a 2-week sprint as a requirement for the completion of a Web Developmen Bootcamp at Le Wagon.
