@@ -22,17 +22,21 @@ Please check our site here: https://airbnb-mnicehouse.herokuapp.com/
 <img width="1271" alt="Screenshot 2023-03-13 170611" src="https://user-images.githubusercontent.com/63351461/224763674-6b4805f1-2e1c-42cf-85fc-902fbba8bb65.png">
 </details>
 
-
-
 <details>
-  <summary>View and book a Flat</summary>
-  <img width="1280" alt="add question and send to user" src="https://user-images.githubusercontent.com/63351461/222459986-08d73145-3a59-40a7-9c14-904cfc6a57ee.png">
+  <summary>Browse Flats by category</summary>
+ <img width="1273" alt="browse flats" src="https://user-images.githubusercontent.com/63351461/224764305-901671b1-9239-423f-94b9-8175c79865c9.png">
 </details>
 
 
 <details>
-  <summary>View User Dashboard with open Assesments</summary>
-  <img width="1265" alt="answer assesment" src="https://user-images.githubusercontent.com/63351461/222467000-271aaa09-96fe-455b-8e1c-6904e7ff2103.png">
+  <summary>View and book a Flat</summary>
+<img width="1273" alt="faltsite" src="https://user-images.githubusercontent.com/63351461/224764061-0ef9bcb3-cb53-4668-90dd-aa79eb02034a.png">
+</details>
+
+
+<details>
+  <summary>View User Dashboard with open Booked Flats</summary>
+  <img width="1262" alt="bokked falts" src="https://user-images.githubusercontent.com/63351461/224764435-8f67ae3e-3f7e-4951-afab-f868af9b503d.png">
 </details>
 
 <details>
