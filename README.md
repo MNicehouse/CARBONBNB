@@ -1,35 +1,34 @@
-<img src="https://user-images.githubusercontent.com/63351461/222115384-e47c0293-b057-47fc-b68a-cb5fce6d73c3.png" width="300" height= "300">
 
-# Online Maturity Assessment Generator
-Assessing a clients maturity and identifing their needs is usually a hassle. 
-To make it as easy as possible we have created the Online Maturity Assessment Generator. A web application designed to help consulting professionals measure the maturity of an organization in a specific domain, such as marketing, technology, or innovation. The app allows consultants to create customized assessment questionnaires that can be shared with stakeholders to collect data and evaluate the current level of maturity of an organization in a particular area.
+![logo](https://user-images.githubusercontent.com/63351461/224762440-ca9a80f7-70ea-47ac-9c10-f4069449e156.png)
+
+
+# CarbonBNB
+During our projects week in LeWagon Coding bootcamp we set up an AirBnB clone to host and book flats.
 
 # How it works
-
-The tool allows consultants to create assessment templates that align with their clients' unique needs and goals. Consultants can define questions and their individual score to capture a comprehensive picture of the organization's maturity.
-
-The app provides real-time insights, making it easy for consultants to identify gaps and opportunities for improvement. The generated reports can also be used to guide clients in creating actionable plans to enhance their maturity in the specific domain.
-
-Online Maturity Assessment Generator saves consulting professionals time and effort by streamlining the assessment process and providing actionable insights. It's a powerful tool that can help organizations identify areas for growth and improvement, and ultimately achieve their goals.
+CarbonBNB is an online marketplace that allows people to list, find, and book accommodations in more than 220 countries and regions around the world. It works by connecting travelers with hosts who have extra space to rent out, such as apartments, houses, or even a single room in their home.
 
 # Tech Stack
 We developed our Webapp with the Ruby on Rails Framework deployed it with Heroku.
-Please check our site here: http://www.omag.site/
+Please check our site here: https://airbnb-mnicehouse.herokuapp.com/
 
 # Database Schema
-<img width="712" alt="image" src="https://user-images.githubusercontent.com/63351461/222133425-fb1b500f-124e-4a7a-bb81-74cea634f6c1.png">
+<img width="637" alt="db schema carbonbnb" src="https://user-images.githubusercontent.com/63351461/224763458-08e2a251-1865-463a-a9fe-975284095852.png">
 
 
 # User Journey
 <details>
-  <summary>Create a new assesment</summary>
-  <img width="1270" alt="create an assesment" src="https://user-images.githubusercontent.com/63351461/222458260-971d1645-8ed9-4349-9d6e-33721f7e5e57.png"> 
+  <summary>HomePage</summary>
+<img width="1271" alt="Screenshot 2023-03-13 170611" src="https://user-images.githubusercontent.com/63351461/224763674-6b4805f1-2e1c-42cf-85fc-902fbba8bb65.png">
 </details>
 
+
+
 <details>
-  <summary>Add a question to the Assesment & Send the Assessment to a User</summary>
+  <summary>View and book a Flat</summary>
   <img width="1280" alt="add question and send to user" src="https://user-images.githubusercontent.com/63351461/222459986-08d73145-3a59-40a7-9c14-904cfc6a57ee.png">
 </details>
+
 
 <details>
   <summary>View User Dashboard with open Assesments</summary>
@@ -38,8 +37,9 @@ Please check our site here: http://www.omag.site/
 
 <details>
   <summary>Answer Questions of the Assesment as an Enduser </summary>
- <img width="1268" alt="answer question assesment" src="https://user-images.githubusercontent.com/63351461/222467791-866c3c3b-048a-4507-aa79-a68020efea04.png">
+<img width="1273" alt="faltsite" src="https://user-images.githubusercontent.com/63351461/224763885-a3d763b8-ddc9-4169-aacb-182dda9601ee.png">
 </details>
+
 
 <details>
   <summary>Calculate the Maturity on a specific Assessment </summary>
